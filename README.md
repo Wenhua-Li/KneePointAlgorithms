@@ -20,3 +20,6 @@ url = {https://www.sciencedirect.com/science/article/pii/S0020025520301791},
 author = {Wenhua Li and Rui Wang and Tao Zhang and Mengjun Ming and Kaiwen Li},
 keywords = {Multiobjective optimization, Evolutionary computation, Knee point, NSGA-II, MOEA/D},
 }
+
+# Tips
+Please contact me to access the source code. Email:liwenhua1030@aliyun.com
